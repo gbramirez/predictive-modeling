@@ -1,5 +1,7 @@
 # predictive-modeling
-<p>A predictive modeling project for a fictional hospital organization. The Project includes Multiple Regression and Logistic Regression.</p>
+<p>A predictive modeling project for a fictional hospital organization. The Project includes Multiple Regression and Logistic Regression.<br>
+The goal of the project is to analyze the organization's operations and collect variables to support future decision-making processes.</p>
+
 <p>The project uses a Jupyter Notebook environment along with Python and the following Python packages and libraries:</p>
 
 |Package|Justification|
